@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Weikang Meng"
-description              : "Ph.D. Student\HITsz CS"
+description              : "Ph.D. Student\n\
+                            HITsz CS"
 repository               : "ZacharyMeng/WeikangMeng.github.io"
 google_scholar_stats_use_cdn : true
 
