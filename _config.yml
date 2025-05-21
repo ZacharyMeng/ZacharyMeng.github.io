@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Weikang Meng"
-description              : "Ph.D. Student\n\
-                            HITsz CS"
+description              : "Ph.D. Student at HITsz CS"
 repository               : "ZacharyMeng/WeikangMeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weikang Meng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology, Shenzhen"
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -38,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ZacharyMeng"
   google_plus      :
   keybase          :
   instagram        :
