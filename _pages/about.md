@@ -26,15 +26,15 @@ ZacharyMeng is a second-year Ph.D. candidate (2023-) at
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Weikang Meng**, Yadan Luo, Xin Li, Dongmei Jiang, Zheng Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cZOoYMkAAAAJ&citation_for_view=cZOoYMkAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cZOoYMkAAAAJ:u5HHmVD_uO8C'></span></strong>
+This work presented a novel attention mechanism with linear complexity called PolaFormer. Our PolaFormer computed the similarity in a polarity-aware form to avoid neglecting negatives, at the same time, we theoretically proposed a familty of element-wise functions to make the attention weight more spiky and employ a learnable power function for simplicity and rescaling.
 </div>
 </div>
 
