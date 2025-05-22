@@ -25,6 +25,17 @@ Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](http
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+In submission
+
+In submission <strong><span class='show_paper_citations' data='cZOoYMkAAAAJ:u5HHmVD_uO8C'></span></strong>
+To be updated.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
