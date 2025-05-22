@@ -38,10 +38,10 @@ This work presented a novel attention mechanism with linear complexity called Po
 </div>
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2018.09* National High School Mathematics League, Provincial first prize
 
-# 📖 Educations
+# Educations
 - *2023.08 - now*, Ph.D student, Harbin Institute of Technology, Shenzhen, Computer Science and Technology
 - *2019.08 - 2023.07*, Undergrauate student, Harbin Institute of Technology, Information and Computational Science
 - *2016.08 - 2019.07*, Harbin NO.3 High School
