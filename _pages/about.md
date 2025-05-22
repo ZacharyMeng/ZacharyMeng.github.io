@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-ZacharyMeng is a second-year Ph.D. candidate (2023-) at
-[SMULL Group](https://cszhengzhang.cn/SMULL/) of [HITsz CS](http://cs.hitsz.edu.cn) advised by Prof. [Zheng Zhang](https://cszhengzhang.cn/). He received his B.S. degree in Information and Computational Science at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023. My research interests lie in efficient training and inference algorithms for large-scale foundation models, particularly linear attentions.
+Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](https://cszhengzhang.cn/SMULL/) of [HITsz CS](http://cs.hitsz.edu.cn) advised by Prof. [Zheng Zhang](https://cszhengzhang.cn/). He received his B.S. degree in Information and Computational Science at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023. His research interests lie in efficient training and inference algorithms for large-scale foundation models, particularly linear attentions.
 
 
 # News
