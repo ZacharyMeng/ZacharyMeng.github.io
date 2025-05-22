@@ -22,8 +22,7 @@ ZacharyMeng is a second-year Ph.D. candidate (2023-) at
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
 
 # Publications 
 
@@ -41,7 +40,7 @@ ZacharyMeng is a second-year Ph.D. candidate (2023-) at
 
 
 # 🎖 Honors and Awards
-- *2018.09* National High School Mathematics League, provincial first prize
+- *2018.09* National High School Mathematics League, Provincial first prize
 
 # 📖 Educations
 - *2023.08 - now*, Ph.D student, Harbin Institute of Technology, Shenzhen, Computer Science and Technology
