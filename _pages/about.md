@@ -21,6 +21,7 @@ Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](http
 
 
 # News
+- *2025.06*: &nbsp;📮📮 Our new work "[NaLaFormer: Norm-Aware Linear Attention for Transformer Models](https://arxiv.org/abs/2506.21137)" has been uploaded to arXiv.
 - *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
 
 # Publications 
@@ -28,10 +29,11 @@ Weikang (Zachary) is a second-year Ph.D. candidate (2023-) at [SMULL Group](http
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[NaLaFormer: Norm-Aware Linear Attention for Transformer Models](https://arxiv.org/abs/2506.21137)
 
-To be updated.
-<strong><span class='show_paper_citations' data='cZOoYMkAAAAJ:u5HHmVD_uO8C'></span></strong>
+**Weikang Meng**, Yadan Luo, Liangyu Huo, Yaowei Wang, Xin Li, Zheng Zhang
 
+This work introduced a linear attention mechanism for Transformer-based models, called NaLaFormer. Based on the Positive Sequence Entropy (PSE), this work theoretically analysed the dynamic entropy reduction of softmax attention controlled by query norm and proposed the norm-aware kernel function. In addition, NaLaFormer utilized the Ptolemy's theorem to keep the non-negative constrain of the attention weight.
 </div>
 </div>
 
