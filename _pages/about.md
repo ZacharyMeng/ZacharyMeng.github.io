@@ -21,7 +21,9 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 
 # News
-- *2025.06*: &nbsp;📮📮 Our new work "[NaLaFormer: Norm-Aware Linear Attention for Transformer Models](https://arxiv.org/abs/2506.21137)" has been uploaded to arXiv.
+- *2026.01*: &nbsp;📮📮 Our new work "[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/abs/2602.02180)" has been uploaded to arXiv.
+- *2026.01*: &nbsp;📮📮 Our new work "[MirrorLA: Reflecting Feature Map for Vision Linear Attention](https://arxiv.org/abs/2602.04346)" has been uploaded to arXiv.
+- *2025.06*: &nbsp;📮📮 Our new work "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" has been uploaded to arXiv.
 - *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
 
 # Publications 
@@ -29,7 +31,7 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NaLaFormer: Norm-Aware Linear Attention for Transformer Models](https://arxiv.org/abs/2506.21137)
+[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)
 
 **Weikang Meng**, Yadan Luo, Liangyu Huo, Yaowei Wang, Xin Li, Zheng Zhang
 
