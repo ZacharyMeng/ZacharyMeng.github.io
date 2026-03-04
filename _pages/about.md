@@ -28,7 +28,30 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/NIPS25mainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/pdf/2602.02180)
+
+**Weikang Meng**, Liangyu Huo, Yadan Luo, Jiawen Guan, Jingyi Zhang, Yingjian Li, Zheng Zhang
+
+This work proposes STILL, an intra-layer hybrid attention framework to efficiently linearize pretrained LLMs while preserving their original capabilities. STILL introduces a Self-Saliency Score with strong local–global consistency to select a small set of globally important tokens for sparse softmax attention, while summarizing the remaining context with linear attention. To mitigate distribution shift during linearization, it further proposes a Norm-Preserved Feature Map (NP-Map) that decouples direction from magnitude and reinjects the pretrained norms, and adopts a unified chunk-wise (delayed) selection strategy to improve training and inference efficiency for long-context generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/mirrorlamainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MirrorLA: Reflecting Feature Map for Vision Linear Attention](https://arxiv.org/pdf/2602.04346)
+
+**Weikang Meng**, Liangyu Huo, Yadan Luo, Yaowei Wang, Yingjian Li, Zheng Zhang
+
+This work proposes MirrorLA, a linear attention framework that improves the expressivity of non-negative kernel feature maps by replacing passive truncation with active geometric reorientation. It introduces learnable Householder reflections to rotate informative components into the non-negative region while preserving inner-product structure, reducing information loss and stabilizing long-context behavior. MirrorLA further extends this idea with block-wise and cross-head geometric modulations, achieving stronger performance without sacrificing linear-time attention.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)
