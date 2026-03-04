@@ -51,7 +51,7 @@ This work proposes MirrorLA, a linear attention framework that improves the expr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/nalaformermainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)
