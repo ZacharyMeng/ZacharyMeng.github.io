@@ -33,7 +33,7 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 **STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs.** [[paper](https://arxiv.org/pdf/2602.02180)][[code](https://github.com/ZacharyMeng/STILL)]
 
-***Weikang Meng***, *Liangyu Huo*, *Yadan Luo*, *Jiawen Guan*, *Jingyi Zhang*, *Yingjian Li*, *Zheng Zhang**
+***Weikang Meng***, *Liangyu Huo*, *Yadan Luo*, *Jiawen Guan*, *Jingyi Zhang*, *Yingjian Li*, *Zheng Zhang*
 
 This work proposes STILL, an intra-layer hybrid attention framework to efficiently linearize pretrained LLMs while preserving their original capabilities. STILL introduces a Self-Saliency Score with strong local–global consistency to select a small set of globally important tokens for sparse softmax attention, while summarizing the remaining context with linear attention. To mitigate distribution shift during linearization, it further proposes a Norm-Preserved Feature Map (NP-Map) that decouples direction from magnitude and reinjects the pretrained norms, and adopts a unified chunk-wise (delayed) selection strategy to improve training and inference efficiency for long-context generation.
 </div>
@@ -44,7 +44,7 @@ This work proposes STILL, an intra-layer hybrid attention framework to efficient
 
 **MirrorLA: Reflecting Feature Map for Vision Linear Attention.** [[paper](https://arxiv.org/pdf/2602.04346)]
 
-***Weikang Meng***, *Liangyu Huo*, *Yadan Luo*, *Yaowei Wang*, *Yingjian Li*, *Zheng Zhang**
+***Weikang Meng***, *Liangyu Huo*, *Yadan Luo*, *Yaowei Wang*, *Yingjian Li*, *Zheng Zhang*
 
 This work proposes MirrorLA, a linear attention framework that improves the expressivity of non-negative kernel feature maps by replacing passive truncation with active geometric reorientation. It introduces learnable Householder reflections to rotate informative components into the non-negative region while preserving inner-product structure, reducing information loss and stabilizing long-context behavior. MirrorLA further extends this idea with block-wise and cross-head geometric modulations, achieving stronger performance without sacrificing linear-time attention.
 </div>
@@ -56,7 +56,7 @@ This work proposes MirrorLA, a linear attention framework that improves the expr
 
 **Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention.** [[paper](https://arxiv.org/abs/2506.21137)]
 
-***Weikang Meng***, *Yadan Luo*, *Liangyu Huo*, *Yaowei Wang*, *Xin Li*, *Zheng Zhang**
+***Weikang Meng***, *Yadan Luo*, *Liangyu Huo*, *Yaowei Wang*, *Xin Li*, *Zheng Zhang*
 
 This work introduced a linear attention mechanism for Transformer-based models, called NaLaFormer. Based on the Positive Sequence Entropy (PSE), this work theoretically analysed the dynamic entropy reduction of softmax attention controlled by query norm and proposed the norm-aware kernel function. In addition, NaLaFormer utilized the Ptolemy's theorem to keep the non-negative constrain of the attention weight.
 </div>
@@ -68,7 +68,7 @@ This work introduced a linear attention mechanism for Transformer-based models, 
 
 **PolaFormer: Polarity-aware Linear Attention for Vision Transformers.** [[paper](https://arxiv.org/abs/2501.15061)][[code](https://github.com/ZacharyMeng/PolaFormer)]
 
-***Weikang Meng***, *Yadan Luo*, *Xin Li*, *Dongmei Jiang*, *Zheng Zhang**
+***Weikang Meng***, *Yadan Luo*, *Xin Li*, *Dongmei Jiang*, *Zheng Zhang*
 
 This work presented a novel attention mechanism with linear complexity called PolaFormer. Our PolaFormer computed the similarity in a polarity-aware form to avoid neglecting negatives, at the same time, we theoretically proposed a familty of element-wise functions to make the attention weight more spiky and employ a learnable power function for simplicity and rescaling.
 </div>
