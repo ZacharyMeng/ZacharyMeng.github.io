@@ -74,6 +74,8 @@ This work presented a novel attention mechanism with linear complexity called Po
 </div>
 </div>
 
+# Talks
+- *2025.10*: Invited interview by 绿洲资本 vitalbridge on our ICLR 2025 paper **PolaFormer** and efficient architectures. [[Link](https://mp.weixin.qq.com/s/GHoGj-mwUYzSAdCt_Jt8eA)]
 
 # Honors and Awards
 - *2018.09*, National High School Mathematics League, Provincial first prize
