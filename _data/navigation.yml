@@ -10,7 +10,7 @@ main:
     url: "/#publications"
 
   - title: "Talks"
-    url: "/#Talks"
+    url: "/#talks"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
