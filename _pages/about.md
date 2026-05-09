@@ -21,6 +21,7 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 
 # News
+- *2026.01*: &nbsp;🎉🎉 "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" is accepted to ICML'26.
 - *2026.01*: &nbsp;📮📮 Our new work "[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/abs/2602.02180)" has been uploaded to arXiv.
 - *2026.01*: &nbsp;📮📮 Our new work "[MirrorLA: Reflecting Feature Map for Vision Linear Attention](https://arxiv.org/abs/2602.04346)" has been uploaded to arXiv.
 - *2025.06*: &nbsp;📮📮 Our new work "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" has been uploaded to arXiv.
@@ -51,7 +52,7 @@ This work proposes MirrorLA, a linear attention framework that improves the expr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/nalaformermainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../images/nalaformermainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention.** [[paper](https://arxiv.org/abs/2506.21137)]
