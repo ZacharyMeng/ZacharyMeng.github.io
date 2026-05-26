@@ -28,7 +28,7 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">New Work</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs.** [[paper](https://arxiv.org/pdf/2602.02180)][[code](https://github.com/ZacharyMeng/STILL)]
@@ -39,7 +39,7 @@ This work proposes STILL, an intra-layer hybrid attention framework to efficient
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New Work</div><img src='../images/mirrorlamainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">New Work</div><img src='../images/mirrorlamainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MirrorLA: Reflecting Feature Map for Vision Linear Attention.** [[paper](https://arxiv.org/pdf/2602.04346)]
@@ -51,7 +51,7 @@ This work proposes MirrorLA, a linear attention framework that improves the expr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../images/nalaformermainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">ICML 2026</div><img src='../images/nalaformermainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention.** [[paper](https://arxiv.org/abs/2506.21137)]
@@ -63,7 +63,7 @@ This work introduced a linear attention mechanism for Transformer-based models, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">ICLR 2025</div><img src='../images/ICLR25mainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PolaFormer: Polarity-aware Linear Attention for Vision Transformers.** [[paper](https://arxiv.org/abs/2501.15061)][[code](https://github.com/ZacharyMeng/PolaFormer)]
