@@ -22,11 +22,11 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 # News
 - *2026.08*: &nbsp;🎉🎉 "PolaFormer++: Polarity-Aware Linear Attention with Channel-wise Spikiness" is accepted to 
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2026.05*: &nbsp;🎉🎉 "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" is accepted to ICML'26.
+Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
+- *2026.05*: &nbsp;🎉🎉 "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" is accepted to **ICML'26**.
 - *2026.01*: &nbsp;📮📮 Our new work "[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/abs/2602.02180)" has been uploaded to arXiv.
 - *2026.01*: &nbsp;📮📮 Our new work "[MirrorLA: Reflecting Feature Map for Vision Linear Attention](https://arxiv.org/abs/2602.04346)" has been uploaded to arXiv.
-- *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to ICLR'25. 
+- *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to **ICLR'25**. 
 
 # Publications 
 
