@@ -88,7 +88,7 @@ This work presented a novel attention mechanism with linear complexity called Po
 - *2016.08 - 2019.07*, Harbin NO.3 High School
 
 <div style="max-width: 320px; margin: 20px auto;">
-<script src="https://statable.com/js/c5l8faaeF9/t/mw.js" data-id="3245937" data-primary-color="#E11D48" data-ocean-color="#F5F6FF" data-display-mode="cities" data-stats-text-color="#3F3F46"></script>
+<script src="https://statable.com/js/c5l8faaeF9/t/mw.js" data-id="3245937" data-theme="light" data-primary-color="#E11D48" data-ocean-color="#F5F6FF" data-display-mode="cities" data-stats-text-color="#3F3F46"></script>
 </div>
 
 
