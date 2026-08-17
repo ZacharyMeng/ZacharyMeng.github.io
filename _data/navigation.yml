@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "CV"
+    url: "/assets/files/Weikang_Meng_CV.pdf"
+
   - title: "Talks"
     url: "/#talks"
 
@@ -18,5 +21,3 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "CV"
-    url: "/assets/files/Weikang_Meng_CV.pdf"
