@@ -17,3 +17,6 @@ main:
 
   - title: "Educations"
     url: "/#educations"
+
+  - title: "CV"
+    url: "/assets/files/Weikang_Meng_CV.pdf"
