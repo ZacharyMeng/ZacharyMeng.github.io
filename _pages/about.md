@@ -22,13 +22,24 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 # News
 - *2026.08*: &nbsp;🎉🎉 "[PolaFormer++: Polarity-Aware Linear Attention with Channel-wise Spikiness](https://ieeexplore.ieee.org/abstract/document/11657470/)" is accepted to 
-Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
 - *2026.05*: &nbsp;🎉🎉 "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" is accepted to **ICML'26**.
 - *2026.01*: &nbsp;📮📮 Our new work "[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/abs/2602.02180)" has been uploaded to arXiv.
 - *2026.01*: &nbsp;📮📮 Our new work "[MirrorLA: Reflecting Feature Map for Vision Linear Attention](https://arxiv.org/abs/2602.04346)" has been uploaded to arXiv.
 - *2025.01*: &nbsp;🎉🎉 "[PolaFormer: Polarity-aware Linear Attention for Vision Transformers](https://arxiv.org/abs/2501.15061)" is accepted to **ICLR'25**. 
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">TPAMI 2026</div><img src='../images/polaTPAMI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PolaFormer++: Polarity-Aware Linear Attention with Channel-wise Spikiness.** [[paper](https://ieeexplore.ieee.org/abstract/document/11657470/)][[code](https://github.com/ZacharyMeng/PolaFormerPP)]
+
+***Weikang Meng***, *Yadan Luo*, *Liangyu Huo*, *Yingjian Li*, *Yaowei Wang*, *Zheng Zhang*, *Heng Tao Shen*
+
+This work extends our previous PolaFormer by further improving the expressiveness of polarity-aware linear attention. While PolaFormer recovers both same- and opposite-polarity query–key interactions, PolaFormer++ further addresses the overly smooth attention distributions of linear attention by introducing a **Polarity-aware Channel-wise Spiky (PaCS) feature map**, which learns channel-specific temperatures for the dual polarity flows to adaptively control attention spikiness. We further provide a theoretical analysis of how channel-wise feature mappings affect attention entropy, establishing conditions for preserving entropy-reducing behavior. Extensive experiments across image classification, detection, segmentation, super-resolution, diffusion generation, and 3D novel-view synthesis demonstrate that PolaFormer++ achieves a stronger accuracy–efficiency trade-off across diverse vision tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">New Work</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
