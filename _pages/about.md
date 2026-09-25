@@ -42,7 +42,7 @@ This work extends our previous PolaFormer by further improving the expressivenes
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">NeurIPS 2026</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">NeurIPS 2026</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs.** [[paper](https://arxiv.org/pdf/2602.02180)][[code](https://github.com/ZacharyMeng/STILL)]
