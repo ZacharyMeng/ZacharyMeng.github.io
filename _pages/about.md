@@ -21,6 +21,7 @@ Weikang (Zachary) is a third-year Ph.D. candidate (2023-) at [SMULL Group](https
 
 
 # News
+- *2026.09*: &nbsp;🎉🎉 "[STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](https://arxiv.org/abs/2602.02180)" is accepted to **NeurIPS'26**.
 - *2026.08*: &nbsp;🎉🎉 "[PolaFormer++: Polarity-Aware Linear Attention with Channel-wise Spikiness](https://ieeexplore.ieee.org/abstract/document/11657470/)" is accepted to 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
 - *2026.05*: &nbsp;🎉🎉 "[Norm×Direction: Restoring the Missing Query Norm in Vision Linear Attention](https://arxiv.org/abs/2506.21137)" is accepted to **ICML'26**.
@@ -41,7 +42,7 @@ This work extends our previous PolaFormer by further improving the expressivenes
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">New Work</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_preprint">NeurIPS 2026</div><img src='../images/stillmainfig.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs.** [[paper](https://arxiv.org/pdf/2602.02180)][[code](https://github.com/ZacharyMeng/STILL)]
