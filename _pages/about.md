@@ -31,7 +31,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">TPAMI 2026</div><img src='../images/polaTPAMI.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge_accept">TPAMI 2026</div><img src='../images/polaTPAMI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PolaFormer++: Polarity-Aware Linear Attention with Channel-wise Spikiness.** [[paper](https://ieeexplore.ieee.org/abstract/document/11657470/)][[code](https://github.com/ZacharyMeng/PolaFormerPP)]
